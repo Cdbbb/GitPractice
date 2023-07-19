@@ -1,5 +1,29 @@
 {
   "dependencies": {
+    "com.pop.comlib": {
+      "version": "file:/Users/popmart/Desktop/gitTry/dreamhome2/Packages/ComLib",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.pop.tween": "0.0.1",
+        "com.unity.textmeshpro": "2.1.3"
+      }
+    },
+    "com.pop.tween": {
+      "version": "file:/Users/popmart/Desktop/Tween",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.textmeshpro": "2.1.3"
+      }
+    },
+    "com.unity.assetbundlebrowser": {
+      "version": "https://github.com/Unity-Technologies/AssetBundles-Browser.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ad2a81ec3068eafd48753df1825a8dd7201ce60c"
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.1",
       "depth": 0,

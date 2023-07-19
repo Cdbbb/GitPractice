@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.pop.comlib": "file:/Users/popmart/Desktop/gitTry/dreamhome2/Packages/ComLib",
+    "com.pop.tween": "file:/Users/popmart/Desktop/Tween",
+    "com.unity.assetbundlebrowser": "https://github.com/Unity-Technologies/AssetBundles-Browser.git",
     "com.unity.collab-proxy": "2.0.1",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.18",
