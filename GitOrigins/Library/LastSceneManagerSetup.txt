@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Experiment/Cp1_\u4E07\u4E2A\u5BF9\u8C61\u79FB\u52A8/#cp1.unity"
+- path: "Assets/Experiment/CP3_\u5E7F\u64AD\u7AD9/#CP3.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
